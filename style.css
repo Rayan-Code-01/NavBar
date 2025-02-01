@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(243, 238, 238);
+}
+
+.menu {
+    margin: 50px 150px;
+    cursor: pointer;
+}
+
+.search {
+    float: right;
+    margin: 50px 150px;
+    cursor: pointer;
+}
+.f-h1-center{
+    text-align: center;
+    color: red;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+nav ul{
+    display: flex;
+    justify-content: center;
+    margin-top: 25px;
+}
+
+
+li{
+ list-style-type: none;
+ margin: 30px;
+ font-weight: bold;
+ font-size: 20px;
+ color: rgb(86, 88, 88);
+}
+
+li:hover{
+    color: rgb(45, 44, 44);
+    text-shadow: 1px 1px black;
+    cursor: pointer;
+}
