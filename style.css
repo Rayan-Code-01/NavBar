@@ -91,7 +91,7 @@ li :hover{
     font-weight: bold;
     width: 100%;
     height: 100vh;
-    background-color: black;
+    background-color: rgb(127, 127, 127);
 }
 .section-1, h1{
     padding: 20px 0px 0px 0px;
@@ -172,5 +172,35 @@ li :hover{
     margin: 50px 10px 50px 0px;
 }
 /* right s-span-3 end*/
-/* section  end*/
+/* section-1  end*/
+
+/* section-2-left-right-float start */
+.section-2-left-right-float{
+    width: 100%;
+    height: 100vh;
+    background: rgba(114, 109, 113, 0.933) !important;
+    color: white;
+}
+
+.right-float{
+    float: right;
+    font-size: 45px;
+    width: 70%;
+    font-weight: bold;
+    margin: 20px 50px 0px 0px;
+    text-indent: 5%;
+    text-align: end;
+}
+
+.left-float{
+    float: left;
+    font-size: 45px;
+    width: 70%;
+    font-weight: bold;
+    margin: 90px 0px 0px 10px;
+    text-indent: 5%;
+    text-align: end;
+}
+/* section-2-left-right-float end */
+
 
