@@ -203,4 +203,32 @@ li :hover{
 }
 /* section-2-left-right-float end */
 
-
+/* section 3 showcase  start*/
+.h1-sec3{
+    text-align: center;
+    font-size: 45px;
+    background: rgba(119, 112, 118, 0.933) !important;
+    padding: 0px 0px 20px 0px;
+}
+.border-img{
+    border: 3px solid rgb(205, 175, 175);
+    background: rgba(114, 109, 113, 0.933) !important;
+    color: white;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    overflow: hidden;
+}
+.img-data img{
+    /* text-align: center; */
+    width: 99%;
+    height: 100vh;
+    /* color: white; */
+}
+.left-float-img-data{
+    float: left;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 30px 0px 0px 30px ;
+    color: white;
+}
+/* section 3 showcase  end*/
